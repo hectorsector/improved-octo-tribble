@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Grade scheduled events activity
         id: events
-        uses: githubtraining/yaml-parser-action@extend-cron-syntax
+        uses: githubtraining/yaml-parser-action@main
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           files: "stale-daily.yml,stale-monthly.yml,stale-weekly.yml"
