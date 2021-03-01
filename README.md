@@ -68,7 +68,7 @@ Links used throughout this README:
 -->
 [Events that trigger workflows - GitHub Docs]: https://docs.github.com/en/free-pro-team@latest/actions/reference/events-that-trigger-workflows#schedule
 [Cron examples - Crontab.guru]: https://crontab.guru/examples.html
-[Creating a repository from a template]:                        https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template
+[Creating a repository from a template]:                        https://doc.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template
 [Viewing workflow run history]:                                 https://docs.github.com/en/actions/managing-workflow-runs/viewing-workflow-run-history
 [Running a workflow on GitHub]:                                 https://docs.github.com/en/actions/managing-workflow-runs/manually-running-a-workflow#running-a-workflow-on-github
 [About billing for GitHub Actions]:                             https://docs.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions
